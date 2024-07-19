@@ -1959,14 +1959,14 @@ export const PGMdialogue: DialogueTranslationEntries = {
   },
   "elesa": {
     "encounter": {
-      1: `C'est fini! When I'm certain of that, I feel an electric jolt run through my body! 
-                    $I want to feel the sensation, so now my beloved Pokémon are going to make your head spin!`,
+      1: `Rien que de penser à ce futur combat, ça me fait des étincelles partout !
+         $Je veux cette sensation et pour ça, je suis prête à te faire tourner la tête !`
     },
     "victory": {
-      1: "I meant to make your head spin, but you shocked me instead."
+      1: "Je voulais te donner le vertige, mais c’est toi qui m’as fait vibrer."
     },
     "defeat": {
-      1: "That was unsatisfying somehow… Will you give it your all next time?"
+      1: "Ça ne me suffit pas… La prochaine fois, j’espère que tu donneras tout ce que tu as."
     }
   },
   "skyla": {
