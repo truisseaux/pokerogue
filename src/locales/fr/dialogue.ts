@@ -3031,7 +3031,7 @@ export const PGFdialogue: DialogueTranslationEntries = {
   },
   "plasma_boss_ghetsis_2": {
     "encounter": {
-      1: "Viens ! Je veux voir ton visage à l’instant même où l’espoir quittera ton corps !"
+	  1: "Viens ! Je veux voir ton visage à l’instant même où l’espoir quittera ton corps !"
     },
     "victory": {
       1: "Mes calculs… Non ! Mes plans étaient parfaits !\nCe monde devrait être mien !"
