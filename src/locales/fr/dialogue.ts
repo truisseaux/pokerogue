@@ -7,16 +7,16 @@ export const PGMdialogue: DialogueTranslationEntries = {
       1: "Hé ! Combat ?",
       2: "Toi aussi tu débutes ?",
       3: "Hé, j’me souviens pas de ta tête. Combat !",
-      4: "J’ai perdu, alors j’essaye de capturer d’autres Pokémon.\nHé, t’as l’air faible toi ! Allez, combat !",
+	  4: "J’ai perdu, alors j’essaye de capturer d’autres Pokémon.\nHé, t’as l’air faible toi ! Allez, combat !",
       5: "On s’connait ? J’ai comme un doute. Dans tous les cas, sympa de te rencontrer !",
       6: "Allez, c’est parti !",
       7: "Attention, me voilà !\nTu vas voir comment j’suis fort !",
-      8: "Coucou… Tu veux voir mes bô Pokémon ?",
-      9: "Trève de mondanités. Ramène-toi quand tu le sens !",
-      10: "Baisse pas ta garde si tu veux pas pleurer d’avoir perdu face à un gamin.",
-      11: "J’ai tout donné pour élever mes Pokémon. Attention à toi si tu leur fait du mal !",
-      12: "Incroyable que t’y sois parvenu ! Mais la suite va pas être une partie de plaisir.",
-      13: "Les combats sont éternels ! Bienvenue dans un monde sans fin !"
+	  8: "Coucou… Tu veux voir mes bô Pokémon ?",
+	  9: "Trève de mondanités. Ramène-toi quand tu le sens !",
+	  10: "Baisse pas ta garde si tu veux pas pleurer d’avoir perdu face à un gamin.",
+	  11: "J’ai tout donné pour élever mes Pokémon. Attention à toi si tu leur fait du mal !",
+	  12: "Incroyable que t’y sois parvenu ! Mais la suite va pas être une partie de plaisir.",
+	  13: "Les combats sont éternels ! Bienvenue dans un monde sans fin !"
     },
     "victory": {
       1: "Hé, mais t’es trop fort !",
@@ -25,13 +25,13 @@ export const PGMdialogue: DialogueTranslationEntries = {
       4: "Arg… J’ai plus aucun Pokémon.",
       5: "Non… IMPOSSIBLE ! Pourquoi j’ai encore perdu…",
       6: "Non ! J’ai perdu !",
-      7: "Waah ! T’es trop incroyable ! J’suis bouche bée !",
+	  7: "Waah ! T’es trop incroyable ! J’suis bouche bée !",
       8: "Pourquoi… Comment… Pourtant on est les plus forts, mes Pokémon et moi…",
-      9: "J’perdrai pas la prochaine fois ! Remettons ça un jour !",
-      10: "Weeeesh ! Tu vois que j’suis qu’un gamin ? C’est pas juste de me bully comme ça !",
-      11: "Tes Pokémon sont trop incroyables !\n… P’tit échange ?",
-      12: "Je me suis fait un peu aider plus tôt, mais de quel taf je parlais ?",
-      13: "Ahaha ! Et voilà, ça y est !\nT’es déjà comme chez toi dans ce monde !"
+	  9: "J’perdrai pas la prochaine fois ! Remettons ça un jour !",
+	  10: "Weeeesh ! Tu vois que j’suis qu’un gamin ? C’est pas juste de me bully comme ça !",
+	  11: "Tes Pokémon sont trop incroyables !\n… P’tit échange ?",
+	  12: "Je me suis fait un peu aider plus tôt, mais de quel taf je parlais ?",
+	  13: "Ahaha ! Et voilà, ça y est !\nT’es déjà comme chez toi dans ce monde !"
     }
   },
   "lass": {
@@ -96,7 +96,7 @@ export const PGMdialogue: DialogueTranslationEntries = {
     "encounter": {
       1: "Aaah non ! J’avais une touche !\nTu comptes faire quoi pour arranger ça ?",
       2: "Bouge de là ! Tu fais peur aux Pokémon !",
-      3: "Voyons si t’arrives à ferrer une victoire !",
+      3: "Voyons si t'arrives à ferrer une victoire !",
     },
     "victory": {
       1: "Vas-y là, oublie.",
@@ -151,7 +151,7 @@ export const PGMdialogue: DialogueTranslationEntries = {
     },
     "victory": {
       1: "Très bien… T’as de bons Pokémon…",
-      2: "Quoi ?! Mais c’est moi le génie des combats !",
+      2: "Quoi ?! Mais c'est moi le génie des combats !",
       3: "Évidemment que t’es le personnage principal !",
       4: "OK ! OK ! Tu pourrais être un Topdresseur !"
     },
